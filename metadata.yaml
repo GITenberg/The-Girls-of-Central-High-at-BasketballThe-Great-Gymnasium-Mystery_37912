@@ -1,0 +1,29 @@
+_repo: The-Girls-of-Central-High-at-BasketballThe-Great-Gymnasium-Mystery_37912
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Morrison, Gertrude W.
+    gutenberg_agent_id: '2659'
+    url: http://www.gutenberg.org/2009/agents/2659
+description: ''
+gutenberg_issued: '2011-11-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37912'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'High school students -- Juvenile fiction'
+- !lcsh 'Competition -- Juvenile fiction'
+- !lcsh 'Mystery and detective stories'
+- !lcsh 'Athletics -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Young women -- Social life and customs -- Juvenile fiction'
+- !lcsh 'Schools -- Juvenile fiction'
+title: The Girls of Central High at Basketball; Or, The Great Gymnasium Mystery
+url: http://www.gutenberg.org/ebooks/37912
